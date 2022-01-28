@@ -28,13 +28,7 @@ I built a search engine which searches for documents calculating cosine similari
 * Streamlit 1.4.0 (for displaying website).
 
 ## Installation
-To use this project, first clone the repo on your device using the comand below:
-
-`git init`
-
-`git clone .git`
-
-Then go to the folder in your local computer and use the comand below:
+Go to the folder in your local computer and use the comand below:
 
 `streamlit run search_app.py`
 
