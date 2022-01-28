@@ -1,6 +1,6 @@
 # Indecopi Search Engine: Project Overiew
 
-![Search Engine GIF](demo.gif)
+![Search Engine GIF](demo_gif.gif)
 
 **Problem:**
 1. Every time there is a legal problem, a lawyer needs to search the Indecopi database for jurisprudence. However, the current search engine is not accurate. *Example: You received a case in which they denied the registration of a brand because it went against morality and good customs. Then a lawyer needs to know if this similar case happened before and know if the judge gave his veridict in favour or against the case. Consequently, he can use this past case to support his case.*
