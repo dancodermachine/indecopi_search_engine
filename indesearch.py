@@ -17,6 +17,8 @@ __email__ = '2144810@brunel.ac.uk'
 __website__ = 'https://www.linkedin.com/in/danielvillanuevanunez/'
 __copyright__ = 'Copyright 2022, Daniel Villanueva'
 
+nltk.download('punkt')
+
 # List of stopwords in Spanish.
 stopword_es = nltk.corpus.stopwords.words('spanish')
 # Add the "\n" in the list.
