@@ -1,5 +1,5 @@
 pandas
-numpy==1.22.1
+numpy
 pdfplumber==0.6.0
 pickle
 nltk==3.6.7
